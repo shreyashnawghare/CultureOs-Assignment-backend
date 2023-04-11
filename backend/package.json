@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "routerRules.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node routerRules.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
